@@ -21,7 +21,7 @@ print(any)
 
      
 any=[1,"python",[1,2[34,"this is python 3rd class",78],"python is a launguage",89],34,[3,4]]
-print(any
+print(any[2][2])
 
 append()
 this method s used to add new item into list, and it will in the lastindex position
